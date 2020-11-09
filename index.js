@@ -1,5 +1,6 @@
 //TODO: Validate values between 0-255;
 //TODO: Settings object to have a more flexible config
+//TODO: Validate Params
 
 const express = require('express')
 const { Yeelight } = require('yeelight-node')
@@ -31,8 +32,7 @@ app.post('/color/:rgb',(req,res) => {
         
     }
 })
-//TODO: Validate Params
-app.post('/ct/:ct',(req,res) => { //47100
+app.post('/ct/:ct',(req,res) => {
     if(req.params.ct) {
         yeelight.set_bright(100);
         yeelight.set_ct_abx([parseInt(req.params.ct)], "smooth",200);
