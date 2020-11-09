@@ -62,5 +62,5 @@ app.get('/ct',(req,res) => {
 })
 
 httpsServer.listen(port,() => {
-    console.log(`Example app listening at http://localhost:${port}`)
+    console.log(`Yeelighy listening at https://localhost:${port}`)
 })
