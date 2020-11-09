@@ -62,5 +62,5 @@ app.get('/ct',(req,res) => {
 })
 
 httpsServer.listen(port,() => {
-    console.log(`Yeelighy listening at https://localhost:${port}`)
+    console.log(`Yeelight listening at https://localhost:${port}`)
 })
