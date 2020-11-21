@@ -1,7 +1,7 @@
 # Yeelight ↔ Meets controller
 ![alt text](meets2.gif "Demo")
 ![](https://www.google-analytics.com/collect?v=1&t=event&tid=UA-100869248-2&cid=555&ec=github&ea=pageview&el=yeelight-meets&ev=1)
-TLDR: The light turns red when you are mute, and white when you are not muted.
+TLDR: The light turns red when you are muted, and white when you are not muted.
 Works when you click the button, or someone mutes you during the call
 
 ## How to use this:
