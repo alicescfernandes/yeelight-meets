@@ -1,5 +1,6 @@
 # Yeelight ↔ Meets controller
 ![alt text](meets2.gif "Demo")
+
 TLDR: The light turns red when you are mute, and white when you are not muted.
 
 ## How to use this:
