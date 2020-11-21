@@ -13,7 +13,7 @@ Works when you click the button, or someone mutes you during the call
 4. install tampermonkey on your browser
 
 
-5. [click here to install the user script](https://github.com/alicescfernandes/yeelight-meets/raw/master/yeeligh.user.js) `yeelight.user.js`
+5. [click here to install the user script](https://github.com/alicescfernandes/yeelight-meets/raw/master/yeelight.user.js) `yeelight.user.js`
 6. go to any meets call and mute/unmute yourself. You should now see the light change
 
 ## Stack
