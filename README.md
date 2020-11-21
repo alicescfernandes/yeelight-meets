@@ -1,6 +1,7 @@
 # Yeelight ↔ Meets controller
 ![alt text](meets2.gif "Demo")
 ![](https://www.google-analytics.com/collect?v=1&t=event&tid=UA-100869248-2&cid=555&ec=github&ea=pageview&el=yeelight-meets&ev=1)
+
 TLDR: The light turns red when you are muted, and white when you are not muted.
 Works when you click the button, or someone mutes you during the call
 
@@ -10,7 +11,9 @@ Works when you click the button, or someone mutes you during the call
 3. run `npm start`. This will start a node server that is listening on localhost:3000
    1.  You may need to adjust the IP of the lamp on the code
 4. install tampermonkey on your browser
-5. install the user script `yeelight.user.js`
+
+
+5. [click here to install the user script](https://github.com/alicescfernandes/yeelight-meets/raw/master/yeeligh.user.js) `yeelight.user.js`
 6. go to any meets call and mute/unmute yourself. You should now see the light change
 
 ## Stack
